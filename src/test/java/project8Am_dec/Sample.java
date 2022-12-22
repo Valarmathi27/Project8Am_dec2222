@@ -6,6 +6,12 @@ public class Sample {
 		System.out.println("test 1");
 		System.out.println("test 5");
 		System.out.println("test 4");
+		System.out.println("test 7");
+		System.out.println("test 8");
+		System.out.println("test 9");
+
+		
+
 		
 	}
 	
